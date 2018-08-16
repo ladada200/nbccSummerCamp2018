@@ -1,5 +1,7 @@
 # NBCC Summer 2018
 
+[![GitHub stars](https://img.shields.io/github/stars/ladada200/nbccSummerCamp2018.svg?longCache=true&style=for-the-badge)](https://github.com/ladada200/nbccSummerCamp2018/stargazers) [![GitHub issues](https://img.shields.io/github/issues/ladada200/nbccSummerCamp2018.svg?longCache=true&style=for-the-badge)](https://github.com/ladada200/nbccSummerCamp2018/issues) ![NBCC](https://img.shields.io/badge/NBCC-Summer%20Camp%202018-blue.svg?longCache=true&style=for-the-badge)
+
 Coding Camp Essentials for NBCC SummerCamp 2018 Telemetry project.
 
 If you like this code, consider enrolling at [New Brunswick Community College](http://nbcc.ca)
